@@ -5,7 +5,7 @@
 
 ## Select a data source
 
-- Link to how to install the data importer
+- [Link to how to install the data importer](../../how-to/data-importer/installation/docker)
 
 Browse to importer, select CSV, upload a CSV file.
 
